@@ -8,9 +8,7 @@ Steps include:
  1.Data collection
  
  2.Data Preprocessing:The dataset had few missing values which could be dropped
- 
                       Dataset had a categoral column.Onehot encoder's dummy scheme was used to encode it
-                      
                       Adding some moew columns in the dataset derived from initial columns
                       
  3.Data Visualization to understand correlation of the features to the target variable
